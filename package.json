@@ -1,0 +1,9 @@
+{
+  "name": "scriptlet-jetpack",
+  "fullName": "Scriptlet",
+  "id": "scriptlet@erikvold.com",
+  "author": "Erik Vold",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "dependencies": ["addonprovider", "toolbarbutton", "vold-utils" ]
+}
